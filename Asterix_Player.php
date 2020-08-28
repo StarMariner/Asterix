@@ -2,7 +2,7 @@
 <!DOCTYPE html > <!--html 5-->
 <html lang="en">
 <head>
-<meta name="author" content="Pete Garrity">
+<meta name="author" content="StarMariner.net">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css" type="text/css">
 <!-- w3.css, above This code is makes the site responsive to any browser, if its missing it looks bad on mobile phones.  Thanks W3schools -->
@@ -24,7 +24,7 @@ hr {
 <body>
 
 <!-- plays any mp3 MP3 found in the current directory where this single .php file is -->
-<!-- Copyright Pete Garrity 2016, royalty and licence free for anyone, but not for fianacial gain-->
+<!-- Copyright StarMariner.net 2016, royalty and licence free for anyone, but not for fianacial gain-->
 <!-- original work of mine using a lot of info of the internet to make a sweet simple script -->
 <!-- note: correct use of the echo is not established, I mean I'm not sure -->
 <!-- With HTML5 alone ,MP3, MP4, M4A are at present univeral / work on all poplular browsers, ogg works on a few, so does wav. Need javascript to implement it.-->
@@ -74,7 +74,7 @@ hr {
 <div class = "w3-round w3-green w3-padding-medium w3-small">
 <a href="http://www.w3.org/html/logo/">
 <img src="https://www.w3.org/html/logo/badge/html5-badge-h-multimedia.png" width="64" height="32" alt="HTML5 Powered with Multimedia" title="HTML5 Powered with Multimedia">
-</a>2016 Pete Garrity
+</a>2016 StarMariner.net
 </div>
 
 </body>
